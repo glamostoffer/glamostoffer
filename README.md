@@ -2,4 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Software engineering student</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glamostoffer)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glamostoffer)](https://github.com/anuraghazra/github-readme-stats)
+</div>
